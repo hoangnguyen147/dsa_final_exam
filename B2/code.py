@@ -50,4 +50,4 @@ append_linked_list(head, 5)
 append_linked_list(head, 6)
 
 
-display(remove_duplicate(head))
+display(remove_duplicates(head))
